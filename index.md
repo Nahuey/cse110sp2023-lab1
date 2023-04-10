@@ -3,11 +3,11 @@
 # **Table Of Contents**
 - [**Nathan's User Page**](#nathans-user-page)
 - [**Table Of Contents**](#table-of-contents)
-  - [**My favorite quote currently:**](#my-favorite-quote-currently)
-  - [Favorite Youtuber currently:](#favorite-youtuber-currently)
-  - [**Favorite Chess Players:**](#favorite-chess-players)
-  - [**Favorite NBA Players:**](#favorite-nba-players)
-  - [**Goals in life:**](#goals-in-life)
+  - [**My favorite quote currently**](#my-favorite-quote-currently)
+  - [**Favorite Youtuber currently**](#favorite-youtuber-currently)
+  - [**Favorite Chess Players**](#favorite-chess-players)
+  - [**Favorite NBA Players**](#favorite-nba-players)
+  - [**Goals in life**](#goals-in-life)
   - [**For loop in C++**](#for-loop-in-c)
 
 ## **My favorite quote currently:**
